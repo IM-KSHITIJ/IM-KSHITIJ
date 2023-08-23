@@ -1,7 +1,7 @@
 <h2 align="center"><b>Personal Information 👨‍💻</b></h2>
 
 
-<p align='Middle'><a href='https://t.me/LegendBoy_XD><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/KSHITIJ_RAJ><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
 
   
 <p align="center">
@@ -11,9 +11,9 @@
 
 
 ```python
-Name = "Krishna Kumar"
-Class = "12th"
-Age = "17"
+Name = "Kshitij Raj"
+Class = "BCA 1st Year"
+Age = "19"
 Country = "🇮🇳"
 ```
 
@@ -24,13 +24,13 @@ Country = "🇮🇳"
 <br>
 
 ----
-![GitHub followers](https://img.shields.io/github/followers/LEGEND-AI?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=LEGEND-AI.LEGEND-AI)
-[![Profile views](https://komarev.com/ghpvc/?username=LEGEND-AI&label=Profile%20views)](https://github.com/LEGEND-AI)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-AI)
+![GitHub followers](https://img.shields.io/github/followers/IM-KSHITIJ?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=IM-KSHITIJ.IM-KSHITIJ)
+[![Profile views](https://komarev.com/ghpvc/?username=IM-KSHITIJ&label=Profile%20views)](https://github.com/IM-KSHITIJ)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=IM-KSHITIJ)
   
-<a href="https://github-readme-stats.vercel.app/api?username=LEGEND-AI&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=LEGEND-AI&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+<a href="https://github-readme-stats.vercel.app/api?username=IM-KSHITIJ&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=IM-KSHITIJ&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
 </a>
 </b></h2>  
@@ -41,8 +41,8 @@ Country = "🇮🇳"
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-AI&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-AI&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-KSHITIJ&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-KSHITIJ&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>  
 </details>
@@ -54,7 +54,7 @@ Country = "🇮🇳"
   <br>
   
   
-[![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](Krishna045Jaiswal@gmail.com)</b></h2>
+[![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](kshitij.raj.96@gmail.com)</b></h2>
 </details>
 
 
@@ -65,8 +65,8 @@ Country = "🇮🇳"
   <br>
   <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/LegendBoy_XD) [!
-[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/LegendBoy_XD) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LegendBoy_XD) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/LegendBoy_XD)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@KrishnaJaiswal1)</b></h2> 
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kshitij_raj_19) [!
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/KSHITIJ_RAJ) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kshitij_raj_96) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kshitij.raj.79827?mibextid=ZbWKwL)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@KSHITIJ-RAJ)</b></h2> 
 </details>
 <details>
 <summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
@@ -98,7 +98,7 @@ Country = "🇮🇳"
 </details>
 
 ----
-[![Metrics](https://metrics.lecoq.io/LEGEND-AI?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/LegendBoy_XD)
+[![Metrics](https://metrics.lecoq.io/IM-KSHITIJ?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/KSHITIJ_RAJ)
 ----
 
 ## 🎵 Now playing
