@@ -12,8 +12,8 @@
 
 ```python
 Name = "Kshitij Raj"
-Class = "BCA 1st Year"
-Age = "19"
+Class = "BCA 3rd Year"
+Age = "21"
 Country = "🇮🇳"
 ```
 
